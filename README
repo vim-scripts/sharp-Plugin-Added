@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=901
+
+Here is the new intellisense plugin for C#. This enables the context sensitive completion and online help.
+Due to size restrictions, I could not post the package here. To download the visit http://sourceforge.net/projects/insenvim and download the insenvim1.2 package.
+This is only for Windows.
